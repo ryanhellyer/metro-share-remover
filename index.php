@@ -1,11 +1,12 @@
 <?php
+
 /*
 Plugin Name: Metro Share Remover
-Plugin URI: http://metronet.no/
+Plugin URI: http://geek.ryanhellyer.net/products/metro-share-remover/
 Description: Removes the Metro Share sharing icons from WordPress content
 Version: 0.1
-Author: Metronet AS
-Author URI: http://metronet.no/
+Author: Ryan Hellyer
+Author URI: http://geek.ryanhellyer.net/
 */
 
 
